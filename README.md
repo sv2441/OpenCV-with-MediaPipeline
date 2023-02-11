@@ -1,4 +1,7 @@
 # 468 landmarks face Detection
+![](https://mediapipe.dev/images/mobile/face_mesh_android_gpu.gif)
+
+
 In this Project I used Mediapipeline to Detect 468 Landmarks in Faces .
 ### Media Pipeline 
 MediaPipe Face Mesh is a solution that estimates 468 3D face landmarks in real-time even on mobile devices. It employs machine learning (ML) to infer the 3D facial surface, requiring only a single camera input without the need for a dedicated depth sensor. Utilizing lightweight model architectures together with GPU acceleration throughout the pipeline, the solution delivers real-time performance critical for live experiences.
@@ -14,7 +17,7 @@ refine_landmarks
 min_detection_confidence
 min_tracking_confidence
 
-##To Run This Project 
+## To Run This Project 
 1) Fork the repo
 2) Download Dependencies 
 opencv , Mediapipeline
@@ -22,3 +25,6 @@ opencv , Mediapipeline
 
 
 Thank You For Reading .
+References:
+https://google.github.io/mediapipe/solutions/face_mesh
+
