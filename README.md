@@ -1,6 +1,9 @@
 
 # OpenCV with MediaPipe 
 
+![](https://github.com/sv2441/OpenCV-with-MediaPipeline/blob/master/allresultgif.gif)
+
+
 In the Project I used Mediapipe for face, Hand and Pose detection MediaPipe offers cross-platform, customizable ML solutions for live and streaming media.
 
 It gives ready-to-use solutions: Cutting-edge ML solutions demonstrating full power of the framework	Free and open source: Framework and solutions both under Apache 2.0, fully extensible and customizable.
@@ -44,7 +47,7 @@ OpenCV , Mediapipe
 
 ## Demo
 
-![](https://github.com/sv2441/OpenCV-with-MediaPipeline/blob/master/results.gif)
+![](https://github.com/sv2441/OpenCV-with-MediaPipeline/blob/master/allresultgif.gif)
 
 
 ## Acknowledgements
