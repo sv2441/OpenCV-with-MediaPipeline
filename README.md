@@ -8,6 +8,10 @@ In the Project I used Mediapipe for face, Hand and Pose detection MediaPipe offe
 
 It gives ready-to-use solutions: Cutting-edge ML solutions demonstrating full power of the framework	Free and open source: Framework and solutions both under Apache 2.0, fully extensible and customizable.
 
+#### Read in deatils on **Medium blog**
+
+[Exploring the Power of Mediapipe and OpenCV: A Hands-on Project for Hand, Pose and Face Detection](https://medium.com/@sinu2441/exploring-the-power-of-mediapipe-and-opencv-a-hands-on-project-for-hand-pose-and-face-detection-4904ba223641)
+
 
 
 
@@ -47,7 +51,7 @@ OpenCV , Mediapipe
 
 ## Demo
 
-![](https://github.com/sv2441/OpenCV-with-MediaPipeline/blob/master/allresultgif.gif)
+**[Youtube](https://sv2441.github.io/sandeepp/)**
 
 
 ## Acknowledgements
@@ -55,4 +59,8 @@ OpenCV , Mediapipe
  - [Face Detection | mediapipe](https://google.github.io/mediapipe/solutions/face_detection#python-solution-api)
  - [Pose Detection | mediapipe](https://google.github.io/mediapipe/solutions/pose.html)
  - [Hand Detection | mediapipe](https://google.github.io/mediapipe/solutions/pose.html)
+ 
+## Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sv2441.github.io/sandeepp/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandeep-vishwakarma-3b592b174/)
 
